@@ -4,3 +4,5 @@ pwd
 how are you
 print
 close
+
+hey how are you
